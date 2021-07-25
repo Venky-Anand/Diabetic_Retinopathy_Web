@@ -9,6 +9,6 @@
  
 #### See the application at :>
 >(Open your browser and type in the url)
-- **localhost:33** 
+- **localhost:3000** 
 or
-- **127.0.0.1:33**
+- **127.0.0.1:3000**
